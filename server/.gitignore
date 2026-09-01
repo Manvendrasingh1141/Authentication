@@ -3,5 +3,6 @@ node_modules/
 .env
 
 build/
+.DB_Store
 
 *.log
